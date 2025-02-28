@@ -19,5 +19,5 @@ document.getElementById("add-income-form").addEventListener("submit", function(e
 
     // Optional: Show success message or redirect user
     alert("Income added successfully!");
-    window.location.href = "dashboard.html"; // Redirect back to dashboard (or stay on the page)
+    window.location.href = "Dashboard.html"; // Redirect back to dashboard (or stay on the page)
 });

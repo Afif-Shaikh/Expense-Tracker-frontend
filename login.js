@@ -14,7 +14,7 @@ document.getElementById('login-form').addEventListener('submit', function(event)
     // Simulate checking credentials (you can match with a database in a real app)
     if (email === 'user@example.com' && password === 'password123') {
         alert('Login Successful!');
-        window.location.href = 'dashboard.html'; // Redirect to the dashboard after successful login
+        window.location.href = 'Dashboard.html'; // Redirect to the dashboard after successful login
     } else {
         alert('Invalid email or password!');
     }
