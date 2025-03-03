@@ -52,15 +52,6 @@ h1 {
     background-color: #45a049;
 }
 
-/* If you want a different color for the "Add Income" button, you can style it separately */
-.add-income-btn {
-    background-color: #2196F3; /* Blue color for Add Income */
-}
-
-.add-income-btn:hover {
-    background-color: #1976D2; /* Darker blue for hover */
-}
-
 .dashboard-summary {
     display: flex;
     justify-content: space-between;

@@ -2,7 +2,7 @@ document.getElementById("add-income-form").addEventListener("submit", function(e
     event.preventDefault(); // Prevent the default form submission
 
     const incomeName = document.getElementById("income-name").value;
-    const incomeAmount = document.getElementById("income-amount").value;
+    const incomeAmount = document.getElementById("amount").value;
     const incomeDate = document.getElementById("income-date").value;
     const incomeCategory = document.getElementById("income-category").value;
 
